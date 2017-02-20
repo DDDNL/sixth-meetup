@@ -1,0 +1,2 @@
+- Using the wrong Model (solving a problem using a model that's not meant for it)
+- Modelling Bounded Context (find a problem with different context, then introduce change, does that conflict with the BC's)
